@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@10.6.5",
   "workspaces": [
     "apps/*"
   ],
